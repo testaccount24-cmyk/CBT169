@@ -1,0 +1,12 @@
+2025-04-04 05:24:41.253062 - Received CBT.V508.FILE169.PDS from FILE169.XMI 
+2025-04-04 05:24:41.253903 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:24:41.254044 - Found $$DOC.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/$$DOC
+2025-04-04 05:24:41.254174 - Found #RTN.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/#RTN
+2025-04-04 05:24:41.254302 - Found #SLC.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/#SLC
+2025-04-04 05:24:41.254464 - Found @FILE169.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/@FILE169
+2025-04-04 05:24:41.254921 - Found FORTUNE.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/FORTUNE
+2025-04-04 05:24:41.255053 - Found PELISTR5.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/PELISTR5
+2025-04-04 05:24:41.255177 - Found SMLDATA.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/SMLDATA
+2025-04-04 05:24:41.255293 - Found SMLJCL.jcl (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/SMLJCL
+2025-04-04 05:24:41.255428 - Found SMLSTAT.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/SMLSTAT
+2025-04-04 05:24:41.255639 - Found VTOCSCAN.txt (text/plain) in CBT.V508.FILE169.PDS, moved to PDS/VTOCSCAN
